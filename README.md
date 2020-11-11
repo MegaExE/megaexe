@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Welcome!
+This github I use when I want to code, learn and do stuff.
+I know some basic program language of Python, Bash, html, c/c++, Java.
+
+
+Stick around, and maybe I'll post something cool!
+
 <!--
 **MegaExE/megaexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
