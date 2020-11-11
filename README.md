@@ -3,7 +3,8 @@
 Welcome!
 
 This github I use when I want to code, learn and do stuff.
-I know some basic program language of Python, Bash, html, c/c++, Java.
+I know some basic program language of Python, Bash, html, java script, c/c++, Java.
+Sometime I will try out and randomly make apps by using android studio
 
 
 Stick around, and maybe I'll post something cool!
