@@ -2,9 +2,9 @@
 
 Welcome!
 
-This github I use when I want to code, learn and do stuff.
-I know some basic program language of Python, Bash, html, java script, c/c++, Java.
-Sometime I will try out and randomly make apps by using android studio.
+This is my personal Github Page which I use when I want to code/script, learn or do stuff.
+I know some basic program languages of Python, Bash, Html, java script, c/c++, Java. 
+Sometime I will try out and randomly make apps by using android studio and also randomly write codes/try out using different languages to see how it works by using Visual Studio Code.
 
 
 Stick around, and maybe I'll post something cool!
