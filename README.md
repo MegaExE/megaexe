@@ -7,7 +7,6 @@ I know some basic program languages of Python, Bash, Html, java script, c/c++, J
 Sometime I will try out and randomly make apps by using android studio and also randomly write codes/try out using different languages to see how it works by using Visual Studio Code.
 
 
-Stick around, and maybe I'll post something cool!
 
 <!--
 **MegaExE/megaexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
