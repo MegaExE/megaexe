@@ -3,7 +3,15 @@
 Welcome!
 
 This is my personal Github Page which I use when I want to code/script, learn or do stuff.
-I know some basic program languages of Python, Bash, Html, java script, c/c++, Java. 
+
+I know some basic program languages:
+- Python
+- Bash
+- Html
+- Java Script
+- C/C++
+- Java
+
 Sometime I will try out and randomly make apps by using android studio and also randomly write codes/try out using different languages to see how it works by using Visual Studio Code.
 
 
